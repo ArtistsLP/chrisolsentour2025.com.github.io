@@ -1,7 +1,7 @@
 # chrisolsentour2025.com.github.io
-Github page view: https://artistslp.github.io/chrisolsentour2025.com.github.io
+Github page view: https://artistslp.github.io/chrisolsentour2025.com.github.io<br>CloudFlare page view: https://chrisolsentour2025-com-github-io.pages.dev/<br>CloudFlare page setup: https://dash.cloudflare.com/b388e67ada876c66f522eaaf399a417f/pages/view/chrisolsentour2025-com-github-io
 ## block_hero
-title: Chris Olsen Tour 2025<br>text1: Club Chris Tour With Chris Olsen & Ryan Trainor<br>text2: Mar 06, 2025 – Apr 06, 2025
+title: Chris Olsen Tour 2025<br>text1: Club Chris Tour<br>text2: Mar 06, 2025 – Apr 06, 2025
 ## block_text
 <p>Viral sensation Chris Olsen and renowned podcaster Ryan Trainor are hitting the road together for the highly anticipated Chris Olsen Tour 2025. Kicking off on March 6 in Silver Spring, MD, this co-headlining tour will span twelve cities across the U.S., including major stops in Boston, New York, Chicago, Los Angeles, and wrapping up in Anaheim, CA on April 6.</p><p>This tour follows their successful appearances during Meghan Trainor’s Timeless Tour and promises a 90-minute variety show filled with laughter, music, and interactive fun. Fans can expect a unique blend of Olsen's musical theater performances and Trainor's infectious energy as they transform the crowd into karaoke stars. Tickets are available now, so don’t miss your chance to experience this unforgettable night of entertainment!</p>
 ## block_dates [Active]
