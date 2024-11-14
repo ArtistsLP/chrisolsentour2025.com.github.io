@@ -9,7 +9,7 @@ title: Chris Olsen Tour 2025<br>text1: Club Chris Tour<br>text2: Mar 06, 2025 â€
 ## block_poster
 ./assets/images/poster.jpg<br>01. sample song of Chris Olsen<br>02. sample song of Chris Olsen<br>03. sample song of Chris Olsen<br>04. sample song of Chris Olsen<br>05. sample song of Chris Olsen<br>06. sample song of Chris Olsen<br>07. sample song of Chris Olsen<br>08. sample song of Chris Olsen<br>09. sample song of Chris Olsen<br>10. sample song of Chris Olsen
 ## block_spotify
-1BS8EXDNdqtlSaW3ZBsNT7
+
 ## block_video
 bLOu3fg5XvU
 ## block_gallery [Active]<br>./assets/images/gallery/1.jpg<br>./assets/images/gallery/2.jpg<br>./assets/images/gallery/3.jpg<br>./assets/images/gallery/1.jpg
